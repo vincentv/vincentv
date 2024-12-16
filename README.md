@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Vincent 👋
 
-<!--
-**vincentv/vincentv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with over 15 years of experience, continuously learning and adapting to solve complex challenges. I enjoy creating efficient and maintainable web applications that address user needs.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Languages: **TypeScript**, JavaScript, Scala, Java, C#, Ruby
+- Web: **HTML5**, **CSS**, LESS, SCSS
+- Frameworks: **React**, Angular, Play Framework
+- Databases: **PostgreSQL**, MongoDB
+- DevOps: Docker, **Podman**, Git, Jenkins
+- OS: **Arch Linux**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect with Me:
+- Email: vincent@enelis.tech
+- Linkedin: [in/vincent-viaud](https://www.linkedin.com/in/vincent-viaud/)
+- Bluesky: [@vincentjv.bsky.social](https://bsky.app/profile/vincentjv.bsky.social)
+- X: [@Vincentjvdsj](https://x.com/Vincentjvdsj)
+
+### 📝 Project Naming Conventions
+
+- test-*: Recruitment test projects
+
